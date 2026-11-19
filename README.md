@@ -1,1 +1,0 @@
-# DocDiff-Auditor
